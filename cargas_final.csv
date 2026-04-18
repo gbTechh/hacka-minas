@@ -1,0 +1,8 @@
+carga,tiempo,peso_t,delta_t,nuevo_camion,fuente
+1,00:24,40,40,False,OCR
+2,00:44,80,40,False,OCR
+3,01:03,121,41,False,OCR
+4,01:24,156,35,False,OCR
+5,01:42,190,34,False,OCR
+6,02:02,26,26,True,OCR
+7,10:17,56,30,False,ESTIMADO

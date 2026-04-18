@@ -1,0 +1,289 @@
+{
+  "resumen": {
+    "duracion_total_min": 15.0,
+    "total_ciclos": 29,
+    "ciclos_por_hora": 114.5,
+    "duracion_prom_seg": 31.4,
+    "duracion_min_seg": 23.2,
+    "duracion_max_seg": 59.6,
+    "ciclos_fuerte": 4,
+    "ciclos_normal": 25
+  },
+  "por_lado": {
+    "DERECHO": {
+      "total_ciclos": 9,
+      "duracion_prom_seg": 33.1,
+      "duracion_min_seg": 24.4,
+      "duracion_max_seg": 59.6
+    },
+    "IZQUIERDO": {
+      "total_ciclos": 12,
+      "duracion_prom_seg": 31.3,
+      "duracion_min_seg": 23.2,
+      "duracion_max_seg": 55.2
+    }
+  },
+  "ciclos": [
+    {
+      "ciclo": 1,
+      "tiempo": "00:14",
+      "tiempo_seg": 14.3,
+      "duracion_seg": 28.7,
+      "gyro_peak": 40.7,
+      "lado": "DERECHO",
+      "intensidad": "NORMAL"
+    },
+    {
+      "ciclo": 2,
+      "tiempo": "00:43",
+      "tiempo_seg": 43.1,
+      "duracion_seg": 28.1,
+      "gyro_peak": 35.3,
+      "lado": "DERECHO",
+      "intensidad": "NORMAL"
+    },
+    {
+      "ciclo": 3,
+      "tiempo": "01:11",
+      "tiempo_seg": 71.1,
+      "duracion_seg": 26.9,
+      "gyro_peak": 22.1,
+      "lado": "DERECHO",
+      "intensidad": "NORMAL"
+    },
+    {
+      "ciclo": 4,
+      "tiempo": "01:38",
+      "tiempo_seg": 98.0,
+      "duracion_seg": 33.7,
+      "gyro_peak": 28.6,
+      "lado": "DERECHO",
+      "intensidad": "NORMAL"
+    },
+    {
+      "ciclo": 5,
+      "tiempo": "02:11",
+      "tiempo_seg": 131.7,
+      "duracion_seg": 24.4,
+      "gyro_peak": 40.6,
+      "lado": "DERECHO",
+      "intensidad": "NORMAL"
+    },
+    {
+      "ciclo": 6,
+      "tiempo": "02:36",
+      "tiempo_seg": 156.1,
+      "duracion_seg": 33.0,
+      "gyro_peak": 31.4,
+      "lado": "DERECHO",
+      "intensidad": "NORMAL"
+    },
+    {
+      "ciclo": 7,
+      "tiempo": "03:09",
+      "tiempo_seg": 189.1,
+      "duracion_seg": 31.7,
+      "gyro_peak": 68.9,
+      "lado": "IZQUIERDO",
+      "intensidad": "FUERTE"
+    },
+    {
+      "ciclo": 8,
+      "tiempo": "03:40",
+      "tiempo_seg": 220.8,
+      "duracion_seg": 36.1,
+      "gyro_peak": 48.0,
+      "lado": "IZQUIERDO",
+      "intensidad": "FUERTE"
+    },
+    {
+      "ciclo": 9,
+      "tiempo": "04:16",
+      "tiempo_seg": 256.9,
+      "duracion_seg": 55.2,
+      "gyro_peak": 36.3,
+      "lado": "IZQUIERDO",
+      "intensidad": "NORMAL"
+    },
+    {
+      "ciclo": 10,
+      "tiempo": "05:12",
+      "tiempo_seg": 312.1,
+      "duracion_seg": 30.9,
+      "gyro_peak": 27.6,
+      "lado": "IZQUIERDO",
+      "intensidad": "NORMAL"
+    },
+    {
+      "ciclo": 11,
+      "tiempo": "05:43",
+      "tiempo_seg": 343.0,
+      "duracion_seg": 23.2,
+      "gyro_peak": 56.0,
+      "lado": "IZQUIERDO",
+      "intensidad": "FUERTE"
+    },
+    {
+      "ciclo": 12,
+      "tiempo": "06:06",
+      "tiempo_seg": 366.2,
+      "duracion_seg": 26.1,
+      "gyro_peak": 62.9,
+      "lado": "IZQUIERDO",
+      "intensidad": "FUERTE"
+    },
+    {
+      "ciclo": 13,
+      "tiempo": "06:32",
+      "tiempo_seg": 392.3,
+      "duracion_seg": 33.4,
+      "gyro_peak": 43.8,
+      "lado": "IZQUIERDO",
+      "intensidad": "NORMAL"
+    },
+    {
+      "ciclo": 14,
+      "tiempo": "07:05",
+      "tiempo_seg": 425.7,
+      "duracion_seg": 26.7,
+      "gyro_peak": 24.9,
+      "lado": "IZQUIERDO",
+      "intensidad": "NORMAL"
+    },
+    {
+      "ciclo": 15,
+      "tiempo": "07:32",
+      "tiempo_seg": 452.4,
+      "duracion_seg": 26.0,
+      "gyro_peak": 31.3,
+      "lado": "IZQUIERDO",
+      "intensidad": "NORMAL"
+    },
+    {
+      "ciclo": 16,
+      "tiempo": "07:58",
+      "tiempo_seg": 478.4,
+      "duracion_seg": 26.9,
+      "gyro_peak": 35.4,
+      "lado": "IZQUIERDO",
+      "intensidad": "NORMAL"
+    },
+    {
+      "ciclo": 17,
+      "tiempo": "08:25",
+      "tiempo_seg": 505.3,
+      "duracion_seg": 33.9,
+      "gyro_peak": 36.9,
+      "lado": "IZQUIERDO",
+      "intensidad": "NORMAL"
+    },
+    {
+      "ciclo": 18,
+      "tiempo": "08:59",
+      "tiempo_seg": 539.2,
+      "duracion_seg": 25.2,
+      "gyro_peak": 42.2,
+      "lado": "IZQUIERDO",
+      "intensidad": "NORMAL"
+    },
+    {
+      "ciclo": 19,
+      "tiempo": "09:24",
+      "tiempo_seg": 564.4,
+      "duracion_seg": 59.6,
+      "gyro_peak": 23.9,
+      "lado": "DERECHO",
+      "intensidad": "NORMAL"
+    },
+    {
+      "ciclo": 20,
+      "tiempo": "10:24",
+      "tiempo_seg": 624.0,
+      "duracion_seg": 37.2,
+      "gyro_peak": 29.4,
+      "lado": "DERECHO",
+      "intensidad": "NORMAL"
+    },
+    {
+      "ciclo": 21,
+      "tiempo": "11:01",
+      "tiempo_seg": 661.2,
+      "duracion_seg": 25.9,
+      "gyro_peak": 30.5,
+      "lado": "DERECHO",
+      "intensidad": "NORMAL"
+    },
+    {
+      "ciclo": 22,
+      "tiempo": "11:27",
+      "tiempo_seg": 687.1,
+      "duracion_seg": 27.7,
+      "gyro_peak": 37.7,
+      "lado": "DESCONOCIDO",
+      "intensidad": "NORMAL"
+    },
+    {
+      "ciclo": 23,
+      "tiempo": "11:54",
+      "tiempo_seg": 714.8,
+      "duracion_seg": 28.8,
+      "gyro_peak": 23.3,
+      "lado": "DESCONOCIDO",
+      "intensidad": "NORMAL"
+    },
+    {
+      "ciclo": 24,
+      "tiempo": "12:23",
+      "tiempo_seg": 743.6,
+      "duracion_seg": 26.9,
+      "gyro_peak": 24.3,
+      "lado": "DESCONOCIDO",
+      "intensidad": "NORMAL"
+    },
+    {
+      "ciclo": 25,
+      "tiempo": "12:50",
+      "tiempo_seg": 770.5,
+      "duracion_seg": 25.4,
+      "gyro_peak": 26.5,
+      "lado": "DESCONOCIDO",
+      "intensidad": "NORMAL"
+    },
+    {
+      "ciclo": 26,
+      "tiempo": "13:15",
+      "tiempo_seg": 795.9,
+      "duracion_seg": 31.3,
+      "gyro_peak": 24.3,
+      "lado": "DESCONOCIDO",
+      "intensidad": "NORMAL"
+    },
+    {
+      "ciclo": 27,
+      "tiempo": "13:47",
+      "tiempo_seg": 827.2,
+      "duracion_seg": 34.2,
+      "gyro_peak": 37.3,
+      "lado": "DESCONOCIDO",
+      "intensidad": "NORMAL"
+    },
+    {
+      "ciclo": 28,
+      "tiempo": "14:21",
+      "tiempo_seg": 861.4,
+      "duracion_seg": 32.9,
+      "gyro_peak": 40.4,
+      "lado": "DESCONOCIDO",
+      "intensidad": "NORMAL"
+    },
+    {
+      "ciclo": 29,
+      "tiempo": "14:54",
+      "tiempo_seg": 894.3,
+      "duracion_seg": 40.0,
+      "gyro_peak": 30.1,
+      "lado": "DESCONOCIDO",
+      "intensidad": "NORMAL"
+    }
+  ]
+}
